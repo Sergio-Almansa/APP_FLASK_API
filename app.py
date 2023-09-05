@@ -20,12 +20,6 @@
 # pip install jinja2
 # pip install requests
 
-#----------#
-
-# Inicializamos repositorio git #
-
-# git init
-
 
 from flask import Flask, render_template
 import requests
